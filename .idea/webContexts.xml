@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Admin/Admin.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Admin/UserDetail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Admin/UserList.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Admin/UserLogs.jsp" value="file://$PROJECT_DIR$/src/main/webapp/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/Register.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/one-music/albums-store.html" value="file://$PROJECT_DIR$/src/main/webapp/one-music" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/one-music/index.html" value="file://$PROJECT_DIR$/src/main/webapp/one-music" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/one-music/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/one-music" />
+      </map>
+    </option>
+  </component>
+</project>
